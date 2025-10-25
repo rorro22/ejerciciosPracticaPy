@@ -123,6 +123,3 @@ Si quieres mejorar o añadir más ejercicios:
 3. Haz tus cambios y realiza un **pull request**.
 
 ### 🏁 ¡Listo para practicar y mejorar tus habilidades como desarrollador Python!
-
-```
-
