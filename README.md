@@ -1,5 +1,5 @@
 
-## 🧠**
+## 🧠
 
 ````markdown
 # 🐍 Python Interview Practice
